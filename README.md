@@ -18,3 +18,7 @@ Now as I started learning Rust in 2023 I am full of motivation and wont throw it
 I'll stay on Rust, I like syntax of Rust lang and have some projects on my mind!🥱
 
 ![1edbf144909f2bbfcff412393422984c](https://github.com/user-attachments/assets/6e8ec45a-7d05-4eaf-b391-575172aa93be)
+
+
+![iusearchbtw](https://github.com/user-attachments/assets/d5f7795b-4e62-42d8-ab62-a60acb1375d7)
+
