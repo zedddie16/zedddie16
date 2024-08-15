@@ -22,3 +22,7 @@ I'll stay on Rust, I like syntax of Rust lang and have some projects on my mind!
 
 ![iusearchbtw](https://github.com/user-attachments/assets/d5f7795b-4e62-42d8-ab62-a60acb1375d7)
 
+![bb95d28d77be168ecec4c2b659c52e5d](https://github.com/user-attachments/assets/0d2fb188-fb5a-4009-9a1e-62d26b9c55e3)
+![a01796a6b861dd0c86d23d2dd2afde7f](https://github.com/user-attachments/assets/516af5eb-f533-4547-a5cc-eec7d81602b0)
+![6711e9e79d8474d754bc1c78c9997f31](https://github.com/user-attachments/assets/5c69a854-1776-4f14-90ee-371cdff04ccf)
+![0fd8ddeb39802a26a3264415f2dd8219](https://github.com/user-attachments/assets/9c7d1b38-d38a-499f-9cf7-4dffbe6caee0)
