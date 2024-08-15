@@ -4,7 +4,8 @@
 
 * I am 16 y.o Rust developer (begginer)
 
-*  <img src="[(https://github.com/user-attachments/assets/b1dd38e8-e2ed-4770-848d-66369d17bfc3)]" width="200" height="100">
+*  <img src=t![e24b2dc09de40f591a322cf97bf178c7](https://github.com/user-attachments/assets/cfb8bda6-5b26-4d2f-b573-349d5e794578) wid
+h="200" height="100">
 *
 *
 *
