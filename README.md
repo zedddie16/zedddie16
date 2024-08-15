@@ -4,7 +4,12 @@
 
 * I am 16 y.o Rust developer (begginer)
 
-* ![e24b2dc09de40f591a322cf97bf178c7](https://github.com/user-attachments/assets/b1dd38e8-e2ed-4770-848d-66369d17bfc3) * ![0fd8ddeb39802a26a3264415f2dd8219](https://github.com/user-attachments/assets/fe592cd8-dc9f-45bc-9e7a-ff414400f3e8)
+*  <img src="[(https://github.com/user-attachments/assets/b1dd38e8-e2ed-4770-848d-66369d17bfc3)]" width="200" height="100">
+*
+*
+*
+*
+* * ![0fd8ddeb39802a26a3264415f2dd8219](https://github.com/user-attachments/assets/fe592cd8-dc9f-45bc-9e7a-ff414400f3e8)
 
 * ![shelbi](https://github.com/user-attachments/assets/36679bfd-406a-493b-ba92-179b99a4e182) * ![bb95d28d77be168ecec4c2b659c52e5d](https://github.com/user-attachments/assets/1eba2014-1943-49d5-acf7-bcf018dd0120)
 
