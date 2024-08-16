@@ -1,19 +1,5 @@
-## 🎶 My name is **Matt** im 16 yo Rust Dev beginner
-
-### My language history(it is very bad cuz i changed them too frequently😢)
-
-* I started on trying coding with Python😘 back in 2018-2019 (thank to my father), made some projects like visualization of exel file in Charts
-but then i dropped it.
-* I then started learning C++👍 by courses (ended on half of course)
-* I started learning C#🤔 when i were going to robotics (rasberryPi, Arduino), I throw it either.
-* I tried JavaScript
-* Then I started learn C++👍 again but it didnt least long.
-* Then I started learn Scala🌹.
-It was okay but I then took a big brake of it and forgor😢 almost everything and threw it away
-* I didnt least on one more than a year (exept Python🥰 I think)
+```🎶 My name is Matt and I am beginner Rust Dev.```
   
+```I like syntax of Rust lang and have some projects on my mind, now i work on ```https://github.com/zedddie16/zedddie16/YoutubeDiscordBot ```🥱```
 
-
-Now as I started learning Rust in 2023 I am full of motivation and wont throw it away. **I WONT THREWIT I SWEAR**😡
-I'll stay on Rust, I like syntax of Rust lang and have some projects on my mind!🥱
-
+![1edbf144909f2bbfcff412393422984c](https://github.com/user-attachments/assets/d97e099e-1f62-4307-8f39-6b3aa19b5244)
