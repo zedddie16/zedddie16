@@ -5,7 +5,7 @@
 
 * > https://github.com/zedddie16/YoutubeDiscordBot ```🥱```
 
-![1edbf144909f2bbfcff412393422984c](https://github.com/user-attachments/assets/d97e099e-1f62-4307-8f39-6b3aa19b5244)
+![bd22126371bf5109aceab92256c690fe](https://github.com/user-attachments/assets/11416f6c-ae6f-4aa0-a1ec-c01eaaa4528a)
 
 ```trying to become a good Rust Software Developer ```
 
